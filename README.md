@@ -1,3 +1,3 @@
 # hello-world
 estudos
-sou brasileiro, estou começand  aprender 
+sou brasileiro, estou começando  aprender 
